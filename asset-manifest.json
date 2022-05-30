@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ClickSpace.OnlineShop.Web/static/css/main.073c9b0a.css",
+    "main.js": "/ClickSpace.OnlineShop.Web/static/js/main.2754e30d.js",
+    "static/js/787.93ee0efe.chunk.js": "/ClickSpace.OnlineShop.Web/static/js/787.93ee0efe.chunk.js",
+    "static/media/logo.svg": "/ClickSpace.OnlineShop.Web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ClickSpace.OnlineShop.Web/index.html",
+    "main.073c9b0a.css.map": "/ClickSpace.OnlineShop.Web/static/css/main.073c9b0a.css.map",
+    "main.2754e30d.js.map": "/ClickSpace.OnlineShop.Web/static/js/main.2754e30d.js.map",
+    "787.93ee0efe.chunk.js.map": "/ClickSpace.OnlineShop.Web/static/js/787.93ee0efe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2754e30d.js"
+  ]
+}
